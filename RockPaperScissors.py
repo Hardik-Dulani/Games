@@ -45,4 +45,5 @@ def RPS():
         print('\n\nCongratulations,You won\n\n')
     elif Comp>Player:
         print('\n\nOops, you lost \nBetter Luck Next time XD\n')
+    sleep(4)
 RPS()
